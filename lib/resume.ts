@@ -8,8 +8,8 @@ export const profile = {
   phone: "(934) 221-0988",
   links: {
     linkedin: "https://www.linkedin.com/in/adwait-mali/",
-    scholar: "https://scholar.google.com/",
-    github: "https://github.com/",
+    scholar: "https://scholar.google.com/citations?user=MqZUbVoAAAAJ&hl=en&oi=ao",
+    github: "https://github.com/DarkBrewww",
   },
 };
 
